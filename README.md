@@ -15,3 +15,4 @@ Repository contains all projects I have made during the freeCodeCamp Certificati
 9.  Learn Accessibility by Building a Quiz - 23.05.24: [fcc-my-accesibility-quiz](https://fcc-my-accessibility-quiz.netlify.app/)
 10. **Certification Project: Tribute Page - 29.05.24**: [fcc-project-my-tribute-page](https://fcc-project-my-tribute-page.netlify.app/)
 11. Learn about CSS Pseudo Selectors by Building a Balance Sheet - 03.06.24: [fcc-my-balance-sheet](https://fcc-my-balance-sheet.netlify.app/)
+12. Learn Intermediate CSS by Building a Picasso Painting - 06.06.24: [fcc-my-picasso-painting](https://fcc-my-picasso-painting.netlify.app/)
